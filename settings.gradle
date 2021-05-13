@@ -1,0 +1,2 @@
+rootProject.name = "RegistrationSample"
+include ':app'
